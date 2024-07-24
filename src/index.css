@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.home {
+    padding: 16px;
+    background-color: #FFFEFA;
+  }
